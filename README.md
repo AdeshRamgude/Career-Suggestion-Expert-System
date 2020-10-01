@@ -7,4 +7,4 @@ Answers should be given in the form of "yes./no." OR "y./n."
 
 "." i.e. fullstop is manditory after every input. 
 
-ppt amd report included
+PPT AND REPORT INCLUDED
